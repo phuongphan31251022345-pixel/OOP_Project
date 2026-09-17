@@ -15,4 +15,7 @@
   <Folder Name="/Exercise #5/5.2b/">
     <Project Path="2b/2b.csproj" Id="34fe58af-631e-4ad0-a8ae-3c8097ae97bb" />
   </Folder>
+  <Folder Name="/Exercise #5/5.3b/">
+    <Project Path="3b/3b.csproj" Id="4d4ba2fe-8884-4766-8e0f-cc9ee5e388d9" />
+  </Folder>
 </Solution>

@@ -8,4 +8,8 @@
   <Folder Name="/Exercise #4/">
     <Project Path="Ex#4/#4.csproj" />
   </Folder>
+  <Folder Name="/Exercise #5/" />
+  <Folder Name="/Exercise #5/5.1b/">
+    <Project Path="1b/1b.csproj" Id="f5da07da-6f71-4ce7-aeeb-e73d9da43290" />
+  </Folder>
 </Solution>
